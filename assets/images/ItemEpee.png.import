@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://h42bb8s2i1qt"
-path="res://.godot/imported/wanderer.png-c4d031ef7d1a8b1def41e369bd674669.ctex"
+uid="uid://c5wiwrjtj37ti"
+path="res://.godot/imported/ItemEpee.png-c2152a292e0fc6d724304b19d0948afe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asset/wanderer.png"
-dest_files=["res://.godot/imported/wanderer.png-c4d031ef7d1a8b1def41e369bd674669.ctex"]
+source_file="res://assets/images/ItemEpee.png"
+dest_files=["res://.godot/imported/ItemEpee.png-c2152a292e0fc6d724304b19d0948afe.ctex"]
 
 [params]
 

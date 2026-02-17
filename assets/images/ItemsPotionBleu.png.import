@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cdvcxftavslal"
-path="res://.godot/imported/cadrePiece.png-792b91a567b8bce4684ab1e0b13c30ae.ctex"
+uid="uid://c2lracua028h8"
+path="res://.godot/imported/ItemsPotionBleu.png-7b846152ae8863c36b21ba9e1d9056ba.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asset/cadrePiece.png"
-dest_files=["res://.godot/imported/cadrePiece.png-792b91a567b8bce4684ab1e0b13c30ae.ctex"]
+source_file="res://assets/images/ItemsPotionBleu.png"
+dest_files=["res://.godot/imported/ItemsPotionBleu.png-7b846152ae8863c36b21ba9e1d9056ba.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dwf5b010xyybj"
-path="res://.godot/imported/saler2.png-d826bae094bba9ac82113e0eae41d706.ctex"
+uid="uid://c6exlimhaxvxh"
+path="res://.godot/imported/ItemLivre.png-a015fa536450aaac99266b76297d54da.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asset/saler2.png"
-dest_files=["res://.godot/imported/saler2.png-d826bae094bba9ac82113e0eae41d706.ctex"]
+source_file="res://assets/images/ItemLivre.png"
+dest_files=["res://.godot/imported/ItemLivre.png-a015fa536450aaac99266b76297d54da.ctex"]
 
 [params]
 

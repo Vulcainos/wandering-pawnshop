@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://qkyuotuv2g3a"]
 
-[ext_resource type="Script" uid="uid://cc1nhck83ly0d" path="res://shop_menu.gd" id="1_u8hot"]
-[ext_resource type="PackedScene" uid="uid://drbxm3jhsaqoq" path="res://ItemFrame.tscn" id="2_rh1mo"]
+[ext_resource type="Script" uid="uid://cc1nhck83ly0d" path="res://scripts/shop_menu.gd" id="1_u8hot"]
+[ext_resource type="PackedScene" uid="uid://drbxm3jhsaqoq" path="res://scenes/ItemFrame.tscn" id="2_rh1mo"]
 
 [node name="ShopMenu" type="Control" unique_id=816152254]
 visible = false

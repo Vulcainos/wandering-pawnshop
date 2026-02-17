@@ -1,6 +1,6 @@
 extends Node
 
-var balance: int = 300;
+var balance: int = 50;
 signal balanceChange;
 
 func addBalance(add: int) -> int:

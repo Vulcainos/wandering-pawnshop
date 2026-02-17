@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c5wiwrjtj37ti"
-path="res://.godot/imported/ItemEpee.png-8a4431827d8d3de7611200e54acf7588.ctex"
+uid="uid://n27e28fn0xuo"
+path="res://.godot/imported/ItemsBouleRouge.png-7005c9d51ae23fc5c21d3846bd9cb742.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asset/ItemEpee.png"
-dest_files=["res://.godot/imported/ItemEpee.png-8a4431827d8d3de7611200e54acf7588.ctex"]
+source_file="res://assets/images/ItemsBouleRouge.png"
+dest_files=["res://.godot/imported/ItemsBouleRouge.png-7005c9d51ae23fc5c21d3846bd9cb742.ctex"]
 
 [params]
 

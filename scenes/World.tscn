@@ -1,13 +1,13 @@
 [gd_scene format=3 uid="uid://b6qv0o6vcw3p7"]
 
-[ext_resource type="PackedScene" uid="uid://w6qwjtr7e8fr" path="res://wanderer.tscn" id="1_2dftf"]
-[ext_resource type="Script" uid="uid://cw7dvm15gultt" path="res://world.gd" id="1_bcbcq"]
-[ext_resource type="Texture2D" uid="uid://dh5xa55vc3m18" path="res://asset/WorldImage.png" id="2_bcbcq"]
-[ext_resource type="PackedScene" uid="uid://diq0oc0hnoitg" path="res://Saler.tscn" id="4_js7pq"]
-[ext_resource type="PackedScene" uid="uid://qkyuotuv2g3a" path="res://shop_menu.tscn" id="5_eu7l1"]
-[ext_resource type="Texture2D" uid="uid://cdvcxftavslal" path="res://asset/cadrePiece.png" id="6_p1v5b"]
-[ext_resource type="AudioStream" uid="uid://dsk5w1dd7yj5o" path="res://asset/03 Spring is in the Air! (Loopable Version).mp3" id="7_wygdx"]
-[ext_resource type="Shader" uid="uid://cj4oi85c73enm" path="res://World.gdshader" id="8_bah7m"]
+[ext_resource type="PackedScene" uid="uid://w6qwjtr7e8fr" path="res://scenes/wanderer.tscn" id="1_2dftf"]
+[ext_resource type="Script" uid="uid://cw7dvm15gultt" path="res://scripts/world.gd" id="1_bcbcq"]
+[ext_resource type="Texture2D" uid="uid://dh5xa55vc3m18" path="res://assets/images/WorldImage.png" id="2_bcbcq"]
+[ext_resource type="PackedScene" uid="uid://diq0oc0hnoitg" path="res://scenes/Saler.tscn" id="4_js7pq"]
+[ext_resource type="PackedScene" uid="uid://qkyuotuv2g3a" path="res://scenes/shop_menu.tscn" id="5_eu7l1"]
+[ext_resource type="Texture2D" uid="uid://cdvcxftavslal" path="res://assets/images/cadrePiece.png" id="6_p1v5b"]
+[ext_resource type="AudioStream" uid="uid://dsk5w1dd7yj5o" path="res://assets/sounds/03 Spring is in the Air! (Loopable Version).mp3" id="7_wygdx"]
+[ext_resource type="Shader" uid="uid://cj4oi85c73enm" path="res://assets/shaders/World.gdshader" id="8_bah7m"]
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_fv4w7"]
 shader = ExtResource("8_bah7m")

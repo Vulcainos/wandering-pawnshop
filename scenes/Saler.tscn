@@ -1,9 +1,9 @@
 [gd_scene format=3 uid="uid://diq0oc0hnoitg"]
 
-[ext_resource type="Texture2D" uid="uid://dng1esr21lwvf" path="res://asset/saler1.png" id="1_5ads1"]
-[ext_resource type="Script" uid="uid://c0exjo1l6hkey" path="res://saler.gd" id="1_by32d"]
-[ext_resource type="Texture2D" uid="uid://dwf5b010xyybj" path="res://asset/saler2.png" id="2_by32d"]
-[ext_resource type="Texture2D" uid="uid://qnl3iwvfsr6t" path="res://asset/saler3.png" id="3_sh41a"]
+[ext_resource type="Texture2D" uid="uid://dng1esr21lwvf" path="res://assets/images/saler1.png" id="1_5ads1"]
+[ext_resource type="Script" uid="uid://c0exjo1l6hkey" path="res://scripts/saler.gd" id="1_by32d"]
+[ext_resource type="Texture2D" uid="uid://dwf5b010xyybj" path="res://assets/images/saler2.png" id="2_by32d"]
+[ext_resource type="Texture2D" uid="uid://qnl3iwvfsr6t" path="res://assets/images/saler3.png" id="3_sh41a"]
 
 [sub_resource type="Animation" id="Animation_by32d"]
 resource_name = "Arrive"

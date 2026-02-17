@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dng1esr21lwvf"
-path="res://.godot/imported/saler1.png-60e21c9975a0e57d87ec8c4476505e82.ctex"
+uid="uid://cims0bgxejfkm"
+path="res://.godot/imported/ItemsArmure.png-d2081fd377600a6b0bdf68bc3c3645aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asset/saler1.png"
-dest_files=["res://.godot/imported/saler1.png-60e21c9975a0e57d87ec8c4476505e82.ctex"]
+source_file="res://assets/images/ItemsArmure.png"
+dest_files=["res://.godot/imported/ItemsArmure.png-d2081fd377600a6b0bdf68bc3c3645aa.ctex"]
 
 [params]
 

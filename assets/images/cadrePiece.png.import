@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bt7bvk1hjlcu3"
-path="res://.godot/imported/PotionVerte.png-2c1badcadafdfe1548a6c9e3b1434e62.ctex"
+uid="uid://cdvcxftavslal"
+path="res://.godot/imported/cadrePiece.png-902b1b900f157e5cceb5ed270ccab46e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asset/PotionVerte.png"
-dest_files=["res://.godot/imported/PotionVerte.png-2c1badcadafdfe1548a6c9e3b1434e62.ctex"]
+source_file="res://assets/images/cadrePiece.png"
+dest_files=["res://.godot/imported/cadrePiece.png-902b1b900f157e5cceb5ed270ccab46e.ctex"]
 
 [params]
 

@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://drbxm3jhsaqoq"]
 
-[ext_resource type="Script" uid="uid://duw7pjkyagxoj" path="res://item_frame.gd" id="1_dxynn"]
-[ext_resource type="Texture2D" uid="uid://dvnkgj1fcv5yp" path="res://asset/cadreItem.png" id="1_e8i3j"]
+[ext_resource type="Script" uid="uid://duw7pjkyagxoj" path="res://scripts/item_frame.gd" id="1_dxynn"]
+[ext_resource type="Texture2D" uid="uid://dvnkgj1fcv5yp" path="res://assets/images/cadreItem.png" id="1_e8i3j"]
 
 [node name="ItemFrame" type="Control" unique_id=1175000066]
 custom_minimum_size = Vector2(100, 100)

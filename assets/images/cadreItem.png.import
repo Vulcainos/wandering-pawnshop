@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cbbu6mveuiwn"
-path="res://.godot/imported/ItemsLingot.png-ea150640b253bc62eab145b2e7fb7dcf.ctex"
+uid="uid://dvnkgj1fcv5yp"
+path="res://.godot/imported/cadreItem.png-6f2885e0a391364ebec7cec67e2537ae.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asset/ItemsLingot.png"
-dest_files=["res://.godot/imported/ItemsLingot.png-ea150640b253bc62eab145b2e7fb7dcf.ctex"]
+source_file="res://assets/images/cadreItem.png"
+dest_files=["res://.godot/imported/cadreItem.png-6f2885e0a391364ebec7cec67e2537ae.ctex"]
 
 [params]
 

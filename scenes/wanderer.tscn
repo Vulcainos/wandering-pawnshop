@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://w6qwjtr7e8fr"]
 
-[ext_resource type="Texture2D" uid="uid://h42bb8s2i1qt" path="res://asset/wanderer.png" id="1_geoi6"]
-[ext_resource type="Script" uid="uid://cf4rvc4fxlcny" path="res://wanderer.gd" id="1_icjva"]
+[ext_resource type="Texture2D" uid="uid://h42bb8s2i1qt" path="res://assets/images/wanderer.png" id="1_geoi6"]
+[ext_resource type="Script" uid="uid://cf4rvc4fxlcny" path="res://scripts/wanderer.gd" id="1_icjva"]
 
 [sub_resource type="Animation" id="Animation_icjva"]
 length = 0.001

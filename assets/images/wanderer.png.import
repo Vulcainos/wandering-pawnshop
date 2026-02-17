@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cims0bgxejfkm"
-path="res://.godot/imported/ItemsArmure.png-91b577150afb3e8b36cec809de650871.ctex"
+uid="uid://h42bb8s2i1qt"
+path="res://.godot/imported/wanderer.png-b569bc132318c05aa0abbd7b4494fa97.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asset/ItemsArmure.png"
-dest_files=["res://.godot/imported/ItemsArmure.png-91b577150afb3e8b36cec809de650871.ctex"]
+source_file="res://assets/images/wanderer.png"
+dest_files=["res://.godot/imported/wanderer.png-b569bc132318c05aa0abbd7b4494fa97.ctex"]
 
 [params]
 

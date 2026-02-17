@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dh5xa55vc3m18"
-path="res://.godot/imported/WorldImage.png-b02932e373a40c27b8597a18016dc267.ctex"
+uid="uid://cbbu6mveuiwn"
+path="res://.godot/imported/ItemsLingot.png-c1a40ff15263ec2e2eda5d0c1363aa71.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asset/WorldImage.png"
-dest_files=["res://.godot/imported/WorldImage.png-b02932e373a40c27b8597a18016dc267.ctex"]
+source_file="res://assets/images/ItemsLingot.png"
+dest_files=["res://.godot/imported/ItemsLingot.png-c1a40ff15263ec2e2eda5d0c1363aa71.ctex"]
 
 [params]
 

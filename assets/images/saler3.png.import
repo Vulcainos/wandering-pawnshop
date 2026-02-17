@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c2lracua028h8"
-path="res://.godot/imported/ItemsPotionBleu.png-760fce4e78bd327adca4f65f6ad9f78b.ctex"
+uid="uid://qnl3iwvfsr6t"
+path="res://.godot/imported/saler3.png-b2046e15d21631fec73ca222f81ac3c7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asset/ItemsPotionBleu.png"
-dest_files=["res://.godot/imported/ItemsPotionBleu.png-760fce4e78bd327adca4f65f6ad9f78b.ctex"]
+source_file="res://assets/images/saler3.png"
+dest_files=["res://.godot/imported/saler3.png-b2046e15d21631fec73ca222f81ac3c7.ctex"]
 
 [params]
 
