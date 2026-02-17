@@ -1,0 +1,65 @@
+[gd_scene format=3 uid="uid://qkyuotuv2g3a"]
+
+[ext_resource type="Script" uid="uid://cc1nhck83ly0d" path="res://shop_menu.gd" id="1_u8hot"]
+[ext_resource type="PackedScene" uid="uid://drbxm3jhsaqoq" path="res://ItemFrame.tscn" id="2_rh1mo"]
+
+[node name="ShopMenu" type="Control" unique_id=816152254]
+visible = false
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_u8hot")
+
+[node name="HBoxContainer" type="HBoxContainer" parent="." unique_id=831819478]
+custom_minimum_size = Vector2(0, 100)
+layout_mode = 1
+anchors_preset = 14
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+grow_horizontal = 2
+grow_vertical = 2
+alignment = 1
+
+[node name="WanderHBoxContainer" type="HBoxContainer" parent="HBoxContainer" unique_id=954392767]
+custom_minimum_size = Vector2(450, 100)
+layout_mode = 2
+theme_override_constants/separation = 32
+alignment = 1
+
+[node name="ItemFrame" parent="HBoxContainer/WanderHBoxContainer" unique_id=1175000066 instance=ExtResource("2_rh1mo")]
+layout_mode = 2
+
+[node name="ItemFrame2" parent="HBoxContainer/WanderHBoxContainer" unique_id=1756408407 instance=ExtResource("2_rh1mo")]
+layout_mode = 2
+
+[node name="ItemFrame3" parent="HBoxContainer/WanderHBoxContainer" unique_id=348935326 instance=ExtResource("2_rh1mo")]
+layout_mode = 2
+
+[node name="ButtonLeave" type="Button" parent="HBoxContainer" unique_id=1842171234]
+custom_minimum_size = Vector2(160.455, 0)
+layout_mode = 2
+text = "Leave !"
+
+[node name="SalerHBoxContainer2" type="HBoxContainer" parent="HBoxContainer" unique_id=453858461]
+custom_minimum_size = Vector2(450, 100)
+layout_mode = 2
+theme_override_constants/separation = 32
+alignment = 1
+
+[node name="ItemFrame" parent="HBoxContainer/SalerHBoxContainer2" unique_id=108659626 instance=ExtResource("2_rh1mo")]
+layout_mode = 2
+
+[node name="ItemFrame2" parent="HBoxContainer/SalerHBoxContainer2" unique_id=227114997 instance=ExtResource("2_rh1mo")]
+layout_mode = 2
+
+[node name="ItemFrame3" parent="HBoxContainer/SalerHBoxContainer2" unique_id=2133606883 instance=ExtResource("2_rh1mo")]
+layout_mode = 2
+
+[connection signal="itemSell" from="HBoxContainer/WanderHBoxContainer/ItemFrame" to="." method="_on_item_frame_item_sell"]
+[connection signal="itemSell" from="HBoxContainer/WanderHBoxContainer/ItemFrame2" to="." method="_on_item_frame_2_item_sell"]
+[connection signal="itemSell" from="HBoxContainer/WanderHBoxContainer/ItemFrame3" to="." method="_on_item_frame_3_item_sell"]
+[connection signal="pressed" from="HBoxContainer/ButtonLeave" to="." method="_on_button_leave_pressed"]

@@ -1,0 +1,56 @@
+[gd_scene format=3 uid="uid://drbxm3jhsaqoq"]
+
+[ext_resource type="Script" uid="uid://duw7pjkyagxoj" path="res://item_frame.gd" id="1_dxynn"]
+[ext_resource type="Texture2D" uid="uid://dvnkgj1fcv5yp" path="res://asset/cadreItem.png" id="1_e8i3j"]
+
+[node name="ItemFrame" type="Control" unique_id=1175000066]
+custom_minimum_size = Vector2(100, 100)
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_dxynn")
+
+[node name="ItemSprite" type="TextureRect" parent="." unique_id=415493131]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -49.0
+offset_top = -50.0
+offset_right = 51.0
+offset_bottom = 50.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="PriceLabel" type="Label" parent="." unique_id=985186007]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -20.0
+offset_top = 21.5
+offset_right = 20.0
+offset_bottom = 44.5
+grow_horizontal = 2
+grow_vertical = 2
+horizontal_alignment = 1
+
+[node name="CadreTextureButton" type="TextureButton" parent="." unique_id=529246382]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -50.0
+offset_top = -50.0
+offset_right = 50.0
+offset_bottom = 50.0
+grow_horizontal = 2
+grow_vertical = 2
+texture_normal = ExtResource("1_e8i3j")
+
+[connection signal="pressed" from="CadreTextureButton" to="." method="_on_cadre_texture_button_pressed"]
